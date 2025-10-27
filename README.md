@@ -19,6 +19,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
+   <img src="https://networkwalks.com/wp-content/uploads/2021/06/Nmap-practice-lab1-300x300.png" height="30" alt="nmap"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/BurpSuite_Comunity_Edition.svg" height="30" alt="burpsuite"  />
+  <img width="12" />
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="30" alt="metasploit"  />
+  <img width="12" />
+  <img src="https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png" height="30" alt="sql map"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Ghidra_logo.svg" height="30" alt="Ghidra"  />
+  <img width="12" />
+  <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" height="30" alt="hashcat"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
@@ -33,9 +45,6 @@
 ###
 
 <div align="left">
-  <a href="ayman0code@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/ayman0code/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
