@@ -11,7 +11,7 @@
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/119840395?s=400&u=3b7a93433241ec06e369cbe6c322ee2e1c50ce09&v=4"  />
 
 ###
-
+<h3 align="left">my skils and tools!</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
   <img width="12" />
